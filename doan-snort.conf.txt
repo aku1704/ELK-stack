@@ -1,0 +1,3 @@
+config daq: afpacket
+config daq_mode: inline
+include /etc/snort/rules/doan.rules
